@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maksat20021999
+- 👋 Hi, I’m Maksat.
 - 👀 I’m interested in programming in Python and C++.
 - 🌱 I’m freelanser. Developper web bac-kend and android. Specialization high-load services in Python.
 - 💞️ I’m looking to collaborate on web front-end developers.
